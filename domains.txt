@@ -8,5 +8,5 @@
 ! Version: 2024.0312.2116.00
 ! Syntax: AdBlock
 !
-(\.|^)battleship\.sc-apps\.com$
-(\.|^)beatentransfer\.com$
+battleship.sc-apps.com
+beatentransfer.com
