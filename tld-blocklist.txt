@@ -3,6 +3,7 @@
 ! Source: https://www.spamhaus.org/statistics/tlds/
 !         https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
 !         https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+!         https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-adblock.txt 
 ! Homepage: https://github.com/101br03k/dns-blocklists
 ! License: https://github.com/101br03k/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/101br03k/dns-blocklists/issues
