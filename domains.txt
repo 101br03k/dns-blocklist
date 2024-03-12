@@ -9,3 +9,4 @@
 ! Syntax: AdBlock
 !
 (\.|^)battleship\.sc-apps\.com$
+(\.|^)beatentransfer\.com$
