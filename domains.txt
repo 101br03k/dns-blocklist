@@ -9,3 +9,5 @@
 !
 beatentransfer.com
 android.clients.google.com
+freefromads.app
+blockadsology.net
