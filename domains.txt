@@ -12,4 +12,4 @@ android.clients.google.com
 freefromads.app
 blockadsology.net
 casinoscout.nl
-twityoublocker.ne
+twityoublocker.net
